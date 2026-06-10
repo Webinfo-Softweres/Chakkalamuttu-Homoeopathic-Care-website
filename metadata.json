@@ -1,0 +1,6 @@
+{
+  "name": "Homoeopathic Case Sheet",
+  "description": "An elegant, responsive homoeopathic medical center patient case sheet system with a 7-page patient record layout, automated ID tracking, search, date-based filtering, and persistent record storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Chakkalamuttu Homoeopathic Care Digital Case Sheets",
+  "short_name": "Homoeopathic Care",
+  "description": "Comprehensive Diagnostic Case Sheet Ledger for Chakkalamuttu Homoeopathic Care clinic.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#858000",
+  "background_color": "#f1f5f9",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
