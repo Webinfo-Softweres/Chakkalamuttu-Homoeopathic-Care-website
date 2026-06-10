@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/cfb578a4-7745-4eb7-b177-eb055
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+=======
+# Chakkalamuttu-Homoeopathic-Care-website
+Chakkalamuttu Homoeopathic Care Tripunithura Gate Portal • Digital Case Ledger
